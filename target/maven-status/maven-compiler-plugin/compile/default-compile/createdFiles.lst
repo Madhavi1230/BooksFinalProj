@@ -1,0 +1,8 @@
+com\qa\demo\persistence\exception\BooksNotFoundException.class
+com\qa\demo\config\AppConfig.class
+com\qa\demo\BooksApplication.class
+com\qa\demo\service\BooksService.class
+com\qa\demo\rest\BooksController.class
+com\qa\demo\repo\BooksRepo.class
+com\qa\demo\persistence\domain\Books.class
+com\qa\dto\BooksDTO.class
