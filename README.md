@@ -21,6 +21,9 @@ To create a **Spring Boot API**, with utilization of supporting tools, methodolo
 # What went well?
 Developed a spring boot API using an application back-end from progamming fundamentals, managed mySQL workbench hosted locally and used Postman, a means of making API calls andmeans of checkingpersistence. Project is tested rigorously in key areas using the technologies covered during all fundamental and practical modules (e.g. JUnit, Mockito).
 
+# What did not go as planned?
+Thought of adding one more table Authors and create a relationship between Books table and Authors table using one to many relation in books table and adding a many to one annotation in Authors table. 
+
 
 # Sreen shots of Postman and database:
 
