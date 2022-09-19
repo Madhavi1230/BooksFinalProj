@@ -19,6 +19,7 @@ To create a **Spring Boot API**, with utilization of supporting tools, methodolo
 -   **a means of making API calls**  (Postman) and a  **means of checking persistence**  (Workbench/H2 console)
 
 # What went well?
+Developed a spring boot API using an application back-end from progamming fundamentals, managed mySQL workbench hosted locally and used Postman, a means of making API calls andmeans of checkingpersistence. Project is tested rigorously in key areas using the technologies covered during all fundamental and practical modules (e.g. JUnit, Mockito).
 
 
 # Sreen shots of Postman and database:
